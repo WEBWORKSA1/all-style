@@ -63,3 +63,6 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: gh api -X POST "repos/${{ github.repository }}/pages/builds" >/dev/null 2>&1 && echo "Pages build requested." || echo "Pages build request skipped (Pages builds on push)."
+
+      - name: Mirror main to gh-pages (keeps the site live whichever Pages source is selected)
+        run: git push --force origin HEAD:gh-pages || true
