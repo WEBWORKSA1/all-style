@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /board/
+
+Sitemap: https://webworksa1.github.io/all-style/sitemap.xml

@@ -1,0 +1,135 @@
+{
+  "name": "All-Style",
+  "tagline": "Every style, decoded.",
+  "description": "All-Style is the Style Atlas: every named style in fashion, interiors, hair, beauty and occasions explained, plus free tools that tell you which styles are yours and match you with a pro.",
+  "url": "https://webworksa1.github.io/all-style",
+  "adsense_client": "ca-pub-6620975821265271",
+  "contact_link": "https://web.works/contact",
+  "contact_text": "Contact, if you are interested in this website/domain name/Sponsorship/Advertisement/Partnership",
+  "ad_slots": {
+    "inarticle": "",
+    "display": ""
+  },
+  "donate_links": {
+    "paypal": "",
+    "buymeacoffee": "",
+    "stripe": ""
+  },
+  "pillars": {
+    "wear": {
+      "name": "Wear",
+      "long": "Fashion aesthetics & personal style",
+      "icon": "W",
+      "service": "Personal styling"
+    },
+    "home": {
+      "name": "Interiors",
+      "long": "Interior design styles",
+      "icon": "H",
+      "service": "Interior design (one room)"
+    },
+    "hair": {
+      "name": "Hair & Beauty",
+      "long": "Haircuts, hair and makeup looks",
+      "icon": "B",
+      "service": "Hair & makeup"
+    },
+    "occasion": {
+      "name": "Occasions",
+      "long": "Dress codes, weddings & events",
+      "icon": "O",
+      "service": "Wedding or event styling"
+    }
+  },
+  "feeds": {
+    "wear": [
+      "fashion trends",
+      "street style trend",
+      "menswear trend"
+    ],
+    "home": [
+      "interior design trends",
+      "home decor trend"
+    ],
+    "hair": [
+      "hairstyle trend",
+      "beauty trends makeup"
+    ],
+    "occasion": [
+      "wedding trends",
+      "dress code event fashion"
+    ]
+  },
+  "channels": [
+    {
+      "handle": "@Vogue",
+      "pillar": "wear"
+    },
+    {
+      "handle": "@GQ",
+      "pillar": "wear"
+    },
+    {
+      "handle": "@harpersbazaar",
+      "pillar": "wear"
+    },
+    {
+      "handle": "@gentlemansgazette",
+      "pillar": "wear"
+    },
+    {
+      "handle": "@RealMenRealStyle",
+      "pillar": "wear"
+    },
+    {
+      "handle": "@ArchitecturalDigest",
+      "pillar": "home"
+    },
+    {
+      "handle": "@StudioMcGee",
+      "pillar": "home"
+    },
+    {
+      "handle": "@apartmenttherapy",
+      "pillar": "home"
+    },
+    {
+      "handle": "@HouseBeautiful",
+      "pillar": "home"
+    },
+    {
+      "handle": "@Allure",
+      "pillar": "hair"
+    },
+    {
+      "handle": "@BradMondoNYC",
+      "pillar": "hair"
+    },
+    {
+      "handle": "@Byrdie",
+      "pillar": "hair"
+    },
+    {
+      "handle": "@TheKnot",
+      "pillar": "occasion"
+    },
+    {
+      "handle": "@brides",
+      "pillar": "occasion"
+    }
+  ],
+  "contest_themes": [
+    "New Year, New Uniform: your signature everyday look",
+    "One Room, Three Colours: a 60-30-10 makeover",
+    "Spring Capsule: 10 pieces, 20 outfits",
+    "Thrift Flip: a second-hand find styled three ways",
+    "Hair Glow-Up: before and after a new cut",
+    "Summer Linen: the coolest heatwave outfit",
+    "Small Space, Big Style: a corner, nook or balcony",
+    "Back to Work: business casual that isn't boring",
+    "Autumn Layers: texture, tone and proportion",
+    "Dress Code Challenge: nail an invitation's dress code",
+    "Cosy Corner: your best hygge reading spot",
+    "Party Season: festive attire on a budget"
+  ]
+}
